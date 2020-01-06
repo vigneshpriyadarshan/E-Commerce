@@ -1,0 +1,19 @@
+#pendrive{max-width:25em;height:auto;position:absolute; left:20px; top:20px;  auto;}
+#pendrive a{text-decoration:none;color:black;cursor:default;font-weight:normal;}
+#pendrive a span{visibility:hidden;position:absolute;left:15em;top:-0.3em;background:#ffff6b;width:17em;border:1px solid #404040;font-size:0.8em;padding:0.3em;cursor:default;line-height:140%;}
+#pendrive a:hover span{visibility:visible;}
+
+#memory{max-width:25em;height:auto;position:absolute; right:20px; top:20px;  auto;}
+#memory a{text-decoration:none;color:black;cursor:default;font-weight:normal;}
+#memory a span{visibility:hidden;position:absolute;left:15em;top:-0.3em;background:#ffff6b;width:17em;border:1px solid #404040;font-size:0.8em;padding:0.3em;cursor:default;line-height:140%;}
+#memory a:hover span{visibility:visible;}
+
+#watch{max-width:25em;height:auto;position:absolute; left:20px; bottom:20px;  auto;}
+#watch a{text-decoration:none;color:black;cursor:default;font-weight:normal;}
+#watch a span{visibility:hidden;position:absolute;left:15em;top:-0.3em;background:#ffff6b;width:17em;border:1px solid #404040;font-size:0.8em;padding:0.3em;cursor:default;line-height:140%;}
+#watch a:hover span{visibility:visible;}
+
+#mobile{max-width:25em;height:auto;position:absolute; right:20px; bottom:20px;  auto;}
+#mobile a{text-decoration:none;color:black;cursor:default;font-weight:normal;}
+#mobile a span{visibility:hidden;position:absolute;right:15em;top:-0.3em;background:#ffff6b;width:17em;border:1px solid #404040;font-size:0.8em;padding:0.3em;cursor:default;line-height:140%;}
+#mobile a:hover span{visibility:visible;}
